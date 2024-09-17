@@ -1,2 +1,1 @@
-print("Hello World!")
-print("Fusion will be")
+print("new!")
