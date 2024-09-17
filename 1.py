@@ -1,2 +1,4 @@
 print("Hello World!")
-print("Fusion will be")
+print(2 + 2)
+print("Wow, something new!")
+print("Hmm...")
